@@ -1,17 +1,49 @@
 ---
 name: Task
-about: Việc cần làm không phải bug hay feature
-title: "[Task] "
+about: Tạo task cho công việc cần làm
+title: '[TASK] '
 labels: task
-assignees: ""
+assignees: ''
 ---
 
-## Nội dung công việc
+## 📋 Mô tả task
+<!-- Mô tả rõ ràng công việc cần làm -->
 
-(Mô tả chi tiết task)
+## 🎯 Mục tiêu
+<!-- Kết quả mong muốn khi hoàn thành task -->
 
-## Kết quả mong đợi
+## 📝 Checklist
+- [ ] Bước 1
+- [ ] Bước 2
+- [ ] Bước 3
+- [ ] Review code
+- [ ] Update documentation
+- [ ] Write tests
 
-(Mô tả output cụ thể)
+## 📊 Độ ưu tiên
+- [ ] 🔴 Critical
+- [ ] 🟠 High
+- [ ] 🟡 Medium
+- [ ] 🟢 Low
 
-## Ghi chú thêm
+## ⏱️ Ước tính thời gian
+**Estimated:** [e.g. 2 hours, 1 day, 3 days]
+
+## 📅 Deadline
+**Due date:** YYYY-MM-DD
+
+## 🔗 Liên quan
+**Epic/Feature:** #
+**Dependencies:** #
+**Blocked by:** #
+
+## ✅ Definition of Done
+- [ ] Code complete
+- [ ] Tests passed (coverage > 80%)
+- [ ] Code reviewed
+- [ ] Documentation updated
+- [ ] Deployed to staging
+- [ ] QA approved
+
+## 📝 Ghi chú
+<!-- Thông tin bổ sung -->
