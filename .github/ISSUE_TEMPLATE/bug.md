@@ -1,25 +1,38 @@
 ---
-name: Bug report
-about: Ghi lại lỗi để team dễ tái tạo và fix
-title: "[Bug] "
-labels: bug
-assignees: ""
+name: Bug Report
+about: Báo cáo lỗi để giúp cải thiện sản phẩm
+title: '[BUG] '
+labels: bug, needs-triage
+assignees: ''
 ---
 
-## Mô tả ngắn
+## 🐛 Mô tả lỗi
+<!-- Mô tả rõ ràng và ngắn gọn về lỗi -->
 
-(1–2 câu tóm tắt lỗi)
+## 🔄 Các bước tái hiện
+Các bước để tái hiện lỗi:
+1. Truy cập '...'
+2. Click vào '...'
+3. Cuộn xuống '...'
+4. Thấy lỗi
 
-## Môi trường
+## ✅ Kết quả mong đợi
+<!-- Mô tả những gì bạn mong đợi sẽ xảy ra -->
 
-- OS / Browser / App version:
-- Repo / branch:
+## ❌ Kết quả thực tế
+<!-- Mô tả những gì thực sự xảy ra -->
 
-## Bước tái tạo
+## 📸 Screenshots/Videos
+<!-- Nếu có, thêm screenshots hoặc video để minh họa vấn đề -->
 
-1. ...
-2. ...
-3. Kết quả mong đợi
-4. Kết quả thực tế
+## 🌍 Môi trường
+- **OS:** [e.g. Windows 11, macOS 14, Ubuntu 22.04]
+- **Browser:** [e.g. Chrome 120, Firefox 119, Safari 17]
+- **Version:** [e.g. v1.2.3]
+- **Device:** [e.g. Desktop, iPhone 15, Samsung Galaxy S23]
 
-## Ảnh/Log (nếu có)
+## 📝 Thông tin bổ sung
+<!-- Thêm bất kỳ thông tin nào khác về vấn đề -->
+
+## 🔍 Console Logs
+<!-- Nếu có, paste error logs từ console -->
