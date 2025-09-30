@@ -1,20 +1,45 @@
 ---
-name: Feature request
-about: Đề xuất tính năng mới
-title: "[Feature] "
-labels: feature
-assignees: ""
+name: Feature Request
+about: Đề xuất tính năng mới cho dự án
+title: '[FEATURE] '
+labels: enhancement, needs-review
+assignees: ''
 ---
 
-## Mô tả tính năng
+## 💡 Tóm tắt tính năng
+<!-- Mô tả ngắn gọn tính năng bạn muốn -->
 
-(Mô tả ngắn gọn tính năng mong muốn)
+## 🎯 Vấn đề cần giải quyết
+<!-- Tính năng này giải quyết vấn đề gì? -->
+**Là người dùng**, tôi muốn [mục tiêu] để [lý do].
 
-## Lý do / Vấn đề cần giải quyết
+## 🚀 Giải pháp đề xuất
+<!-- Mô tả chi tiết cách tính năng này hoạt động -->
 
-(Tại sao cần tính năng này?)
+### Mockups/Wireframes
+<!-- Nếu có, thêm hình ảnh minh họa -->
 
-## Acceptance Criteria
+## 🔄 Các giải pháp thay thế
+<!-- Các cách khác để giải quyết vấn đề này -->
 
-- [ ] Tiêu chí 1
-- [ ] Tiêu chí 2
+## 📊 Lợi ích
+- [ ] Cải thiện trải nghiệm người dùng
+- [ ] Tăng hiệu suất
+- [ ] Giảm chi phí
+- [ ] Tăng bảo mật
+- [ ] Khác: 
+
+## 👥 Người dùng mục tiêu
+<!-- Tính năng này dành cho ai? -->
+
+## 🎨 Chi tiết kỹ thuật (nếu có)
+<!-- Các yêu cầu kỹ thuật hoặc ràng buộc -->
+
+## 📅 Độ ưu tiên
+- [ ] Critical (Cần ngay)
+- [ ] High (Quan trọng)
+- [ ] Medium (Bình thường)
+- [ ] Low (Có thể đợi)
+
+## 📝 Thông tin bổ sung
+<!-- Bất kỳ thông tin nào khác về tính năng -->
